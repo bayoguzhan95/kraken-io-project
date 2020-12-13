@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap");
+
+header {
+  background-image: url("bg.jpg");
+  background-size: cover;
+  background-position: center center;
+  min-height: 100vh;
+  font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+}
+
+.txt {
+  color: black;
+  font-size: medium;
+}
+#infoText {
+  font-size: 20px;
+}
+
+#button {
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.9;
+  transition: 0.3s;
+  border-radius: 5px;
+}
+
+#button:hover {
+  opacity: 1;
+}

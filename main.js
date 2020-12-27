@@ -1,6 +1,6 @@
 const form = document.getElementById("form");
 const link = document.getElementById("input-a");
-const API_KEY = "*****************";
+const API_KEY = "**************************";
 const API_SECRET = "***********************";
 const URL = "https://api.kraken.io/v1/url";
 
